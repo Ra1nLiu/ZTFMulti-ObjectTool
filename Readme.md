@@ -2,7 +2,7 @@
 
 *The formal name hasn't been decided yet.
 
-Written by Qinchun Ma, Zhaoxuan Liu from Peking University.
+Written by Qinchun Ma & Zhaoxuan Liu from Peking University.
 
 *A brief code help you sort out the cumbersome multi-object metadata downloaded from ZTF.*
 
